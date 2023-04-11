@@ -1,0 +1,25 @@
+{
+  "name": "moviecentral",
+  "version": "1.0.0",
+  "description": "In this mini-project, you will build Rest API routes for creating, retrieving, and deleting movies from a MySQL database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roseandlily33/movieCentral.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roseandlily33/movieCentral/issues"
+  },
+  "homepage": "https://github.com/roseandlily33/movieCentral#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jshint": "^2.13.6",
+    "mysql2": "^3.2.0"
+  }
+}
